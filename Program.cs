@@ -1,5 +1,4 @@
-﻿#if MACOS
-using System;
+﻿using System;
 using AudioToolbox;
 using CoreAudio;
 using Foundation;
@@ -132,4 +131,3 @@ class Program
         }
     }
 }
-#endif
